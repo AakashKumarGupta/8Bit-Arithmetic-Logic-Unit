@@ -266,24 +266,6 @@ ROL by 0: ab -> ab (should be same)
    Test Complete!
 ================================
 ```
-
-## 📁 File Structure
-
-```
-8bit-ALU/
-├── ALU_8bit.v              # Main ALU module with all sub-modules
-├── README.md               # This file
-├── LICENSE                 # MIT License
-├── docs/
-│   ├── architecture.md     # Detailed architecture documentation
-│   ├── timing.md           # Timing specifications
-│   └── examples.md         # Usage examples
-├── testbench/
-│   ├── simple_tb.v         # Basic testbench (included in main file)
-│   └── comprehensive_tb.v  # Extended testbench (optional)
-└── synthesis/
-    ├── constraints.xdc     # Timing constraints for FPGA
-    └── synthesis_report.txt
 ```
 
 ## 🔬 Testing Coverage
@@ -430,11 +412,8 @@ copies or substantial portions of the Software.
 ## 👤 Author
 
 **Aakash Kumar Gupta**  
-Aakash Semiconductor Pvt. Ltd.
 
-- Email: [contact@example.com]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/aakash-kumar-gupta-622866279/]))
 
 ## 🙏 Acknowledgments
 
@@ -442,12 +421,6 @@ Aakash Semiconductor Pvt. Ltd.
 - Inspired by classic CPU ALU designs (Intel 8080, 6502)
 - Testbench methodology from industry best practices
 
-## 📊 Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 0.02 | Oct 2025 | Fixed rotate/shift bugs, improved overflow detection |
-| 0.01 | Oct 2025 | Initial release |
 
 ## 🔮 Future Enhancements
 
@@ -458,13 +431,6 @@ Aakash Semiconductor Pvt. Ltd.
 - [ ] Add FPGA implementation examples for different boards
 - [ ] Create Python golden model for verification
 
-## 💬 Support
-
-If you have any questions or run into issues:
-
-1. Check the [documentation](docs/)
-2. Search [existing issues](https://github.com/yourusername/8bit-ALU/issues)
-3. Create a [new issue](https://github.com/yourusername/8bit-ALU/issues/new)
 
 ---
 
