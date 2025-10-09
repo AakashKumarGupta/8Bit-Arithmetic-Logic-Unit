@@ -1,8 +1,6 @@
 # 8-bit Arithmetic Logic Unit (ALU)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Verilog](https://img.shields.io/badge/Language-Verilog-blue.svg)](https://en.wikipedia.org/wiki/Verilog)
-[![Status](https://img.shields.io/badge/Status-Tested-success.svg)]()
+
 
 A fully functional 8-bit ALU designed in Verilog HDL with support for 15 operations including arithmetic, logical, shift, and rotate operations. Features comprehensive flag generation and synchronous design.
 
@@ -14,7 +12,6 @@ A fully functional 8-bit ALU designed in Verilog HDL with support for 15 operati
 - [Architecture](#architecture)
 - [Usage](#usage)
 - [Simulation](#simulation)
-- [File Structure](#file-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
